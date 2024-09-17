@@ -1,0 +1,501 @@
+Brand,Model,Year,Sales,Revenue,Region
+Honda,Focus,2019,12368,20411590.85,South America
+Toyota,Civic,2019,19893,27850924.5,Oceania
+Audi,A4,2022,18268,49854604.49,Oceania
+BMW,Altima,2017,14366,21423075.11,Europe
+BMW,Jetta,2022,15679,46659156.38,South America
+Ford,CLA,2023,8084,29648007.81,Europe
+Honda,Civic,2022,10267,14905496.88,Asia
+Nissan,3 Series,2020,14912,44113051.62,Europe
+Honda,A4,2020,12792,28081707.41,Asia
+Volkswagen,3 Series,2023,13214,45947161.23,North America
+Chevrolet,3 Series,2023,7471,27804447.71,South America
+Toyota,Focus,2021,6013,13511629.64,Asia
+Toyota,Corolla,2022,12381,37277170.41,North America
+Honda,Corolla,2020,6695,43820848.76,Oceania
+BMW,3 Series,2018,18286,22783510.88,Europe
+BMW,Elantra,2018,19731,23897011.79,North America
+Nissan,Jetta,2021,18719,12597563.13,Asia
+Volkswagen,Civic,2018,10626,31686854.45,South America
+Toyota,Elantra,2021,16703,45653267.29,Oceania
+Nissan,Malibu,2015,6381,44054482.03,Oceania
+BMW,Jetta,2020,13266,38472364.16,North America
+Nissan,3 Series,2022,15586,47092978.27,North America
+Chevrolet,Malibu,2021,7827,35508000.9,Europe
+BMW,Elantra,2021,5641,41747855.35,Oceania
+Hyundai,Malibu,2017,9059,30350229.81,Oceania
+Volkswagen,3 Series,2022,16593,14854498.2,Europe
+Audi,Focus,2015,12172,18039214.85,South America
+Toyota,Corolla,2017,12199,15555074.88,Europe
+Ford,Civic,2023,13586,41614922.43,Asia
+Chevrolet,Malibu,2020,13564,11051361.07,Asia
+Mercedes,3 Series,2016,14991,32160857.49,North America
+Audi,Focus,2022,7600,24756446.62,Europe
+Ford,Altima,2016,10962,42146469.05,Europe
+BMW,Elantra,2023,11108,32065877.36,North America
+Mercedes,Corolla,2022,9634,34477934.5,South America
+Honda,Altima,2015,11347,13448619.27,Europe
+Honda,3 Series,2017,11697,22371628.7,Oceania
+Chevrolet,Civic,2021,17688,49983801.76,Europe
+Honda,Elantra,2017,10543,38754786.4,South America
+Mercedes,Focus,2016,16123,31027826.19,Europe
+Mercedes,Elantra,2022,14795,40766582.01,Oceania
+Volkswagen,Altima,2019,5857,42933575.98,Asia
+Audi,Altima,2020,17930,12950028.52,Asia
+Toyota,Jetta,2021,15336,48895189.26,South America
+Hyundai,CLA,2016,15605,35693543.58,South America
+Nissan,Elantra,2020,10482,27998979.83,Oceania
+Honda,Jetta,2023,6079,37204359.63,Asia
+Chevrolet,Altima,2021,10401,23780591.23,Asia
+Honda,Malibu,2020,6548,45118406.07,Asia
+Nissan,Altima,2022,14141,41210517.15,Asia
+Audi,Elantra,2023,16114,35591757.17,Oceania
+Volkswagen,Focus,2015,11333,17278525.46,South America
+Mercedes,Elantra,2016,9655,48650584.56,South America
+Volkswagen,Elantra,2018,9128,27304731.46,North America
+BMW,A4,2019,16857,46428490.84,South America
+Honda,3 Series,2018,18952,12216514.0,Asia
+Toyota,A4,2016,15757,14966444.83,Europe
+BMW,Altima,2021,19849,16120618.67,Asia
+Audi,Elantra,2016,14874,16586283.2,Asia
+Honda,3 Series,2016,19307,22906430.05,South America
+BMW,A4,2022,7463,38373285.3,North America
+Honda,Elantra,2017,10461,23840923.29,Oceania
+Chevrolet,Civic,2019,6335,47636162.2,Europe
+Audi,A4,2015,14547,45797036.67,Europe
+Hyundai,3 Series,2015,15872,43837348.25,North America
+Mercedes,A4,2020,7317,20024212.36,Asia
+Ford,CLA,2015,10731,35402283.66,Oceania
+Mercedes,CLA,2019,10082,32033656.62,Oceania
+Mercedes,Altima,2020,15748,15006811.81,Oceania
+BMW,Civic,2020,16443,22112984.24,South America
+Audi,Focus,2021,15848,31339121.19,Asia
+Honda,Focus,2017,11421,30102925.79,Europe
+Volkswagen,3 Series,2018,7112,16745436.07,Europe
+Ford,Malibu,2023,14749,47664279.51,Asia
+Nissan,Focus,2021,16613,16167770.68,Europe
+BMW,3 Series,2017,6388,36349314.94,South America
+Ford,Civic,2017,10072,38825310.74,Oceania
+Hyundai,Malibu,2017,14157,34205556.31,Europe
+Chevrolet,Malibu,2016,11171,43701200.16,South America
+Audi,CLA,2021,15542,32544721.38,Oceania
+Nissan,Altima,2018,17970,43009450.69,Asia
+BMW,Elantra,2022,10381,11134939.52,Asia
+Mercedes,Malibu,2017,18323,11818472.13,South America
+Toyota,Corolla,2018,7093,35658149.35,South America
+BMW,3 Series,2022,15979,33070849.26,South America
+Toyota,Malibu,2019,16515,36045199.1,Europe
+Mercedes,Malibu,2022,18581,40678360.04,Asia
+Chevrolet,Jetta,2019,17104,26663471.35,Europe
+Audi,Corolla,2015,16229,35559647.69,Europe
+Honda,Jetta,2022,19949,29921522.41,Oceania
+BMW,Malibu,2019,13624,35086560.41,South America
+Volkswagen,Elantra,2023,6531,21586866.27,Europe
+Mercedes,Corolla,2017,15584,48266006.8,Oceania
+BMW,CLA,2016,15984,29317792.73,North America
+Hyundai,A4,2022,11937,42187526.17,Oceania
+Chevrolet,Malibu,2020,13331,37399633.65,North America
+Hyundai,Malibu,2019,10928,21897354.86,North America
+Ford,Altima,2021,5298,12918921.02,North America
+Audi,Altima,2019,10940,12396521.32,North America
+Ford,Jetta,2022,10060,27584220.0,South America
+BMW,3 Series,2019,7953,29370045.2,Europe
+Nissan,Elantra,2018,8509,18160920.54,Europe
+Nissan,3 Series,2021,10598,34266410.51,North America
+Audi,A4,2022,17552,22503299.97,Europe
+Volkswagen,Malibu,2016,12967,38734515.4,North America
+Chevrolet,Elantra,2018,8145,39367990.19,Europe
+Volkswagen,Corolla,2021,8711,44431094.63,Oceania
+Chevrolet,Malibu,2020,7253,49014965.12,South America
+Mercedes,CLA,2019,7538,15230646.06,Asia
+BMW,Malibu,2019,6264,24821607.92,North America
+Ford,Focus,2015,9846,32466048.63,Oceania
+Nissan,Elantra,2021,18835,22764635.46,Oceania
+Hyundai,Focus,2019,17912,28658902.68,South America
+Honda,Jetta,2015,6657,20698866.98,South America
+Toyota,Altima,2015,13317,19916755.3,North America
+Honda,Corolla,2022,17630,13872466.1,North America
+Ford,Malibu,2019,13843,21608480.2,Oceania
+Ford,Jetta,2018,18682,25365993.34,Oceania
+Chevrolet,Jetta,2020,17101,34615097.77,South America
+Volkswagen,Corolla,2018,19478,19930811.22,North America
+Honda,Civic,2018,13626,44612300.07,North America
+Chevrolet,Malibu,2019,5618,16387986.49,Oceania
+Chevrolet,Focus,2017,15845,23097432.83,Asia
+Volkswagen,Elantra,2016,10517,33107481.52,Oceania
+Hyundai,Focus,2015,19358,22508596.83,Asia
+Nissan,Corolla,2019,17555,40524855.01,North America
+Audi,A4,2022,15125,29930621.68,Oceania
+Nissan,Malibu,2015,7147,30588993.57,South America
+Toyota,CLA,2020,14785,29950388.34,Europe
+Honda,3 Series,2017,11172,22341619.28,North America
+Nissan,Elantra,2016,7527,10927051.93,North America
+Audi,CLA,2019,7658,47809312.16,Oceania
+Mercedes,CLA,2020,7962,30217778.52,Europe
+Honda,Malibu,2021,18620,48667465.22,Europe
+Audi,A4,2017,16351,18605776.9,Europe
+Chevrolet,Malibu,2018,17633,24115803.55,Oceania
+Ford,A4,2017,15235,12021616.19,Oceania
+Hyundai,Civic,2023,18255,29795768.14,Asia
+Toyota,Elantra,2020,19789,45293579.05,Asia
+Audi,Corolla,2023,7712,36170401.48,Asia
+Nissan,Altima,2023,16815,28823474.13,South America
+Ford,Corolla,2019,12170,31467629.97,North America
+Nissan,CLA,2017,5715,43886894.62,Asia
+Honda,3 Series,2019,11731,27237110.77,South America
+Audi,Civic,2022,10968,45298229.24,South America
+Nissan,Corolla,2019,16081,39100322.53,Oceania
+Volkswagen,Corolla,2020,16789,40554270.57,Europe
+BMW,3 Series,2016,8891,24637494.1,Europe
+Ford,3 Series,2022,12277,26023264.84,Asia
+Mercedes,Corolla,2016,15003,32811265.76,North America
+Ford,Jetta,2017,9668,17786212.08,North America
+Nissan,Focus,2018,17327,32128917.06,North America
+Nissan,3 Series,2021,17264,12941269.99,South America
+Toyota,Focus,2023,17841,30170221.16,South America
+Volkswagen,Elantra,2020,12355,40576164.59,South America
+Mercedes,Civic,2016,8833,21188827.1,Oceania
+Hyundai,Jetta,2021,13749,49563628.02,South America
+Toyota,3 Series,2015,8918,37215945.6,North America
+Honda,Elantra,2019,10070,14752440.79,North America
+Mercedes,A4,2023,18248,49003312.62,Europe
+Audi,CLA,2016,17851,25756148.51,North America
+BMW,Focus,2022,12684,41795889.14,South America
+Toyota,Jetta,2020,19810,23563412.0,South America
+BMW,Jetta,2019,18682,47557942.68,Asia
+Volkswagen,Civic,2021,8178,40198606.89,Oceania
+Honda,Focus,2020,11026,17962315.26,North America
+Honda,A4,2016,16113,30364900.65,Oceania
+Hyundai,Civic,2018,14345,30003116.14,North America
+Honda,Jetta,2022,12218,11812134.1,Europe
+Nissan,Corolla,2015,12564,15481454.94,Europe
+Ford,A4,2023,17606,23321628.21,Oceania
+Ford,Jetta,2020,9616,28949766.02,South America
+Hyundai,Malibu,2018,17748,28279542.37,Asia
+Nissan,Malibu,2016,11256,34250420.9,North America
+Ford,3 Series,2022,13239,30620229.29,North America
+Audi,Civic,2019,13641,23118633.91,Asia
+Nissan,Jetta,2021,11859,34522724.84,Oceania
+Volkswagen,3 Series,2016,7655,16500081.84,Oceania
+Chevrolet,Civic,2017,18383,49624629.5,North America
+BMW,A4,2015,8271,39572774.42,Europe
+Nissan,Jetta,2015,18127,21969373.7,Asia
+BMW,Civic,2019,14906,23454938.09,North America
+Audi,Jetta,2022,7267,43131575.44,Europe
+Chevrolet,Corolla,2016,19303,31293593.2,Oceania
+Mercedes,CLA,2016,9096,38349592.26,Europe
+Hyundai,Altima,2018,5854,21991622.59,South America
+Nissan,Malibu,2023,15505,42629953.33,North America
+Hyundai,CLA,2017,12873,24734312.39,Asia
+Honda,Civic,2021,19321,36952255.7,Europe
+BMW,Altima,2022,11081,49195921.25,Oceania
+BMW,CLA,2020,14085,33348085.67,Europe
+Honda,Corolla,2023,6680,41870192.56,Oceania
+Mercedes,Malibu,2021,16655,39012968.5,South America
+Toyota,Elantra,2017,18859,37521746.05,Oceania
+Volkswagen,Civic,2021,13452,11065886.2,Asia
+Nissan,Malibu,2016,18945,28983608.56,South America
+BMW,CLA,2022,7042,48682827.85,Europe
+Volkswagen,Elantra,2021,9670,41316159.66,North America
+BMW,Focus,2019,6374,41046481.01,Oceania
+Toyota,Malibu,2015,17502,33105375.83,Asia
+Honda,Focus,2020,7626,38856004.49,North America
+Toyota,Altima,2018,9469,33340931.08,North America
+BMW,A4,2022,12361,16820482.47,South America
+Honda,Jetta,2022,19832,35161009.65,Europe
+Toyota,Altima,2018,13410,34789432.22,North America
+Mercedes,Elantra,2020,7414,43646685.0,Asia
+Honda,Elantra,2016,18615,15911028.33,Oceania
+Nissan,Malibu,2020,12167,37229075.8,Oceania
+BMW,Jetta,2023,6502,11262820.53,Oceania
+Audi,A4,2020,19917,47928206.83,South America
+Hyundai,CLA,2015,8637,14395820.85,Asia
+BMW,3 Series,2021,18380,10757494.7,North America
+Nissan,Civic,2019,12391,22547699.34,Asia
+Ford,A4,2018,19493,16057250.32,South America
+Volkswagen,Elantra,2016,10727,37620010.44,South America
+Volkswagen,3 Series,2022,5436,26415096.37,Europe
+Hyundai,Elantra,2016,11797,40998892.07,Asia
+BMW,Jetta,2018,5872,46820838.0,Oceania
+Hyundai,Jetta,2015,11495,44912708.36,South America
+Chevrolet,Malibu,2015,13224,39433490.85,South America
+BMW,CLA,2020,11126,12491251.44,Europe
+Honda,Corolla,2018,8862,15523299.43,Oceania
+Honda,Elantra,2017,11326,18293668.2,South America
+Chevrolet,CLA,2018,6337,23001981.38,North America
+Mercedes,Focus,2016,11142,36489071.99,Oceania
+Chevrolet,Elantra,2023,8678,31019086.06,Asia
+Chevrolet,3 Series,2018,5461,22550103.95,Europe
+Hyundai,CLA,2018,10221,16927296.95,North America
+Toyota,A4,2018,6623,46484966.44,North America
+Honda,CLA,2020,18749,23693080.71,Asia
+Toyota,A4,2017,16709,24171479.55,Europe
+Chevrolet,Jetta,2015,15648,40879591.37,South America
+Mercedes,A4,2019,10493,38836982.45,Europe
+Honda,Altima,2017,17965,35732364.0,South America
+BMW,Corolla,2017,7392,37732532.4,Asia
+BMW,Altima,2023,7254,34403063.2,Asia
+BMW,3 Series,2019,5627,17690566.77,North America
+Nissan,Civic,2017,9700,19860765.42,North America
+Hyundai,3 Series,2016,18594,32323466.03,North America
+Ford,Malibu,2015,12740,18994681.52,Asia
+Chevrolet,Elantra,2017,16404,48916425.1,South America
+Ford,Altima,2015,18616,21904582.61,Asia
+Audi,3 Series,2020,7273,21560165.5,Asia
+Hyundai,Elantra,2018,17432,18291111.79,North America
+BMW,Elantra,2020,16559,38199530.39,Europe
+Honda,Elantra,2015,12685,22681629.8,North America
+Hyundai,Corolla,2017,12349,23952126.97,Europe
+Nissan,Civic,2019,15081,47348014.99,South America
+Honda,A4,2015,5086,41816214.24,South America
+Toyota,3 Series,2017,19841,20938301.47,Oceania
+Nissan,Malibu,2021,6298,14874964.23,Oceania
+Toyota,3 Series,2023,5311,37064889.83,Oceania
+Honda,A4,2016,9193,25187767.41,South America
+BMW,Jetta,2016,8533,49206421.49,North America
+Ford,CLA,2022,18680,42735098.41,North America
+Chevrolet,Elantra,2022,7449,48184354.54,North America
+Hyundai,Altima,2020,13991,42184633.36,Asia
+Hyundai,Altima,2023,16915,21618106.08,Oceania
+BMW,CLA,2016,14975,21505213.66,North America
+Chevrolet,Malibu,2022,13647,38565651.5,Oceania
+Toyota,Altima,2023,11934,23854540.56,Oceania
+Ford,CLA,2018,6821,27695044.47,Asia
+Chevrolet,CLA,2015,17716,20257759.02,South America
+Toyota,Elantra,2023,9720,29163170.52,North America
+Chevrolet,A4,2019,8893,18082720.29,Asia
+Audi,A4,2022,9934,31543116.95,South America
+Hyundai,A4,2015,6996,47320957.35,South America
+Audi,3 Series,2015,5782,37846852.03,North America
+Chevrolet,Civic,2022,8906,15490918.19,Oceania
+Nissan,3 Series,2021,11878,34627081.38,Europe
+Hyundai,CLA,2021,15468,33473219.94,Oceania
+Ford,Civic,2016,18007,19698321.54,Oceania
+BMW,Altima,2022,15204,36793358.6,Europe
+Audi,Focus,2022,12489,31241659.59,South America
+BMW,3 Series,2016,6029,35517782.94,Europe
+Toyota,3 Series,2016,6816,12099644.27,Europe
+Volkswagen,Elantra,2020,18708,26532054.64,Asia
+Nissan,A4,2017,19829,38694322.25,Asia
+Toyota,Jetta,2016,13189,14021796.19,Asia
+Mercedes,Altima,2017,14776,40830642.32,South America
+Toyota,Jetta,2019,13782,10207257.86,Europe
+Toyota,A4,2023,5269,32014102.63,North America
+Volkswagen,Civic,2020,15353,47163987.21,Europe
+Hyundai,3 Series,2021,13443,26276298.06,South America
+Nissan,A4,2023,14421,47401283.94,Asia
+Nissan,3 Series,2019,8963,45135984.86,South America
+Ford,CLA,2022,16772,29097940.82,Asia
+Toyota,Focus,2023,7352,17978238.99,South America
+Nissan,A4,2021,9772,48556561.56,North America
+Honda,Corolla,2016,12032,22846708.08,Asia
+Ford,Altima,2016,5025,35835916.72,Asia
+Honda,Focus,2023,15073,46317478.35,Europe
+Volkswagen,A4,2018,10780,13578428.82,South America
+Honda,Corolla,2021,8941,32965334.13,Oceania
+BMW,Corolla,2022,14349,31406091.08,Oceania
+Chevrolet,Altima,2018,11825,38924707.13,Europe
+Honda,A4,2021,8068,47466775.19,South America
+Volkswagen,Focus,2020,15885,46529189.03,North America
+BMW,Elantra,2022,15948,17002591.02,Europe
+Volkswagen,Civic,2021,6402,45289798.93,Asia
+Volkswagen,Corolla,2021,13576,17031548.3,North America
+Toyota,Jetta,2016,10908,46785392.47,South America
+Volkswagen,A4,2020,6108,49886872.12,Asia
+Honda,Elantra,2021,13618,25879782.97,Oceania
+Chevrolet,Elantra,2020,13914,29815355.89,South America
+Volkswagen,Elantra,2019,13312,47464349.79,Asia
+Volkswagen,CLA,2020,17884,48485255.2,South America
+Nissan,Focus,2017,13316,47041587.92,Asia
+Mercedes,Corolla,2022,14079,45069726.72,South America
+Audi,A4,2016,5333,10370686.74,Oceania
+BMW,Elantra,2016,11397,32718474.75,Europe
+Mercedes,Civic,2016,19308,14292027.63,Asia
+BMW,Civic,2016,12702,49319755.53,Asia
+Audi,Malibu,2021,5713,21382466.09,Oceania
+Chevrolet,Elantra,2016,15414,49563978.8,Europe
+Ford,Civic,2020,11338,31732019.34,South America
+Audi,Jetta,2017,11116,29756496.81,Asia
+Hyundai,Corolla,2023,9155,47542420.07,Europe
+Mercedes,Focus,2015,17244,44042389.54,South America
+Honda,Focus,2023,5266,28720830.76,Asia
+Toyota,Jetta,2023,10850,17712455.93,Asia
+Hyundai,A4,2020,17919,14505870.44,South America
+Volkswagen,Civic,2016,6106,16499770.5,Oceania
+Volkswagen,3 Series,2021,10649,28356578.84,Europe
+Honda,Civic,2020,8950,20290595.21,Asia
+Honda,Altima,2021,17008,17447962.77,South America
+Nissan,Malibu,2015,15765,39464715.82,Asia
+BMW,Jetta,2019,15293,41630706.58,South America
+Nissan,Jetta,2019,6698,32711248.9,Asia
+Audi,Jetta,2020,17640,40291310.01,North America
+Ford,3 Series,2016,14533,17019796.55,Oceania
+Mercedes,Altima,2023,17045,44245860.17,Europe
+Honda,Malibu,2018,17397,45881710.47,Oceania
+BMW,Elantra,2017,10447,43079593.01,Oceania
+Mercedes,Elantra,2022,7185,30611226.36,Europe
+Audi,A4,2018,5726,13469510.79,Oceania
+Ford,Jetta,2016,10772,36770234.14,North America
+Hyundai,Malibu,2020,13945,17391248.04,South America
+Nissan,A4,2023,10546,15624475.03,Europe
+Audi,Jetta,2020,18328,22944066.8,South America
+Volkswagen,Jetta,2016,15531,19921883.35,Asia
+Nissan,Corolla,2019,7868,20431411.08,North America
+Toyota,Jetta,2018,18605,19420850.11,South America
+Nissan,Civic,2021,17765,40150266.07,South America
+Audi,3 Series,2023,16217,48161392.91,Europe
+Honda,3 Series,2023,12612,22077833.59,Asia
+Ford,A4,2015,16393,38915301.14,Europe
+Audi,Civic,2019,12840,10457429.37,Asia
+Honda,Focus,2015,15350,36147334.68,Europe
+Honda,3 Series,2017,7986,37710743.62,South America
+Nissan,Focus,2019,18295,12484973.27,South America
+Ford,Altima,2019,7209,14728993.91,North America
+Audi,Civic,2020,6033,22272253.68,South America
+Audi,Focus,2020,16731,26216664.52,Oceania
+Volkswagen,Corolla,2015,17717,30100818.85,South America
+BMW,Malibu,2017,12498,45804734.79,Oceania
+Mercedes,Elantra,2017,5605,38142281.4,South America
+BMW,Jetta,2021,9807,22439117.94,Oceania
+Audi,Elantra,2016,8302,14696629.83,Oceania
+Nissan,A4,2017,5717,46645215.43,South America
+Hyundai,Corolla,2015,17961,21801504.01,Oceania
+Audi,3 Series,2016,8268,34585017.93,North America
+Toyota,A4,2023,19512,18765144.04,Asia
+Honda,A4,2018,5686,15342751.29,Oceania
+Chevrolet,Elantra,2021,10170,16127422.59,Oceania
+Audi,Civic,2021,10080,39909393.49,North America
+Toyota,3 Series,2022,13444,34229557.92,North America
+Toyota,A4,2020,11524,26633824.62,Europe
+Mercedes,Jetta,2017,18359,31969380.35,Asia
+Ford,3 Series,2020,13897,28833123.08,Europe
+Audi,Malibu,2019,12756,31500707.51,Oceania
+Ford,Civic,2020,9150,36563777.57,North America
+Hyundai,Altima,2016,5599,18736464.91,Oceania
+Nissan,3 Series,2015,17341,19898617.17,South America
+Chevrolet,Focus,2017,15598,40189581.99,Asia
+Nissan,A4,2017,8131,44925402.34,South America
+Toyota,Focus,2015,9687,13274812.26,North America
+Honda,Civic,2016,10848,27869919.1,North America
+Honda,Corolla,2019,19125,38150645.01,North America
+Ford,Focus,2022,17793,13124108.89,Asia
+Nissan,A4,2021,5783,32566748.89,Europe
+Toyota,Jetta,2022,19185,12470321.9,Oceania
+Mercedes,Jetta,2022,15743,31905969.95,Oceania
+Volkswagen,A4,2021,10438,30219482.24,Oceania
+Nissan,Elantra,2019,9476,32908066.97,Oceania
+Ford,Civic,2018,7039,15994095.26,Oceania
+Chevrolet,Elantra,2023,18096,23124705.51,Europe
+Ford,A4,2016,11029,30813661.65,South America
+Toyota,Malibu,2020,12159,14649600.89,Asia
+Audi,A4,2021,19573,18216059.42,South America
+Mercedes,Altima,2016,11553,33325907.14,South America
+Toyota,Altima,2019,17178,13637665.78,Oceania
+Mercedes,Elantra,2022,12204,30415014.16,Oceania
+BMW,Elantra,2023,19657,42347683.33,Europe
+BMW,Civic,2019,11334,28137292.01,Asia
+Honda,Jetta,2015,10554,30529913.73,North America
+Mercedes,Corolla,2018,8060,28271939.03,South America
+Nissan,Malibu,2021,13129,12309471.24,North America
+Chevrolet,CLA,2015,16338,28495132.23,Asia
+Volkswagen,Jetta,2015,13151,42276614.1,South America
+Ford,A4,2018,11018,38931203.19,North America
+BMW,Corolla,2019,18062,25837948.4,North America
+Ford,Civic,2018,13507,42658129.04,Europe
+Ford,3 Series,2017,9369,39832179.31,Asia
+Chevrolet,Jetta,2019,18126,33132450.6,Asia
+Toyota,Jetta,2019,6353,11811592.11,Asia
+Ford,Corolla,2020,16912,23781154.66,South America
+Mercedes,A4,2016,11955,12550396.48,Europe
+Chevrolet,Jetta,2015,6293,49764946.42,Oceania
+BMW,Corolla,2022,12055,47383311.96,South America
+Audi,Focus,2021,14870,12760765.85,Asia
+Ford,Elantra,2017,18473,47351022.5,South America
+Honda,Altima,2017,7956,11269394.84,North America
+Chevrolet,Elantra,2021,13937,26354677.43,South America
+Toyota,A4,2023,9813,40758882.5,South America
+Hyundai,Focus,2018,10262,40633107.32,Asia
+BMW,Jetta,2023,6680,49133331.4,North America
+BMW,Malibu,2023,6311,35835232.72,Asia
+Hyundai,Elantra,2020,10372,26814477.56,North America
+Mercedes,Civic,2016,15828,49714263.94,North America
+Audi,Elantra,2021,9843,25299184.75,North America
+BMW,CLA,2015,10021,44784811.41,Asia
+BMW,Malibu,2021,12305,46270692.46,North America
+Toyota,CLA,2015,14873,25025821.35,Europe
+BMW,CLA,2022,16758,37309214.16,Europe
+Chevrolet,Civic,2016,11981,36471701.53,Oceania
+Mercedes,Focus,2020,7730,31572010.56,Europe
+Audi,CLA,2021,16301,36141363.94,Oceania
+Honda,Malibu,2021,12272,23910795.49,Europe
+Audi,Elantra,2021,10759,17138945.16,Asia
+Mercedes,A4,2019,12325,31490339.46,Oceania
+Nissan,Malibu,2016,5693,31153701.58,South America
+Chevrolet,Altima,2021,16908,39114325.64,South America
+Nissan,Corolla,2015,19254,18907608.64,Europe
+Mercedes,Elantra,2020,19935,10138931.8,South America
+Toyota,Civic,2017,10776,10909413.09,Europe
+Honda,CLA,2022,15073,21934519.55,Europe
+Audi,A4,2020,12126,36939994.31,South America
+Ford,CLA,2016,9498,31777813.56,South America
+Volkswagen,Civic,2021,15477,31277344.34,North America
+Audi,Malibu,2016,17967,42934417.5,Oceania
+Toyota,Altima,2018,5939,19900481.54,Europe
+Honda,Corolla,2021,6229,23846389.4,South America
+Volkswagen,Altima,2021,15996,21025989.11,Oceania
+Chevrolet,Elantra,2023,15445,47496414.45,South America
+Mercedes,Malibu,2016,11655,39000957.84,South America
+Mercedes,Corolla,2021,10952,14513785.55,North America
+Chevrolet,3 Series,2019,13406,42379127.34,Europe
+Volkswagen,Altima,2020,18125,26769623.94,Europe
+Nissan,CLA,2018,17286,40642138.7,Asia
+Honda,Jetta,2020,16131,45350264.87,North America
+Chevrolet,Elantra,2017,7621,10625831.85,Oceania
+Volkswagen,Elantra,2016,5510,18243264.87,North America
+BMW,Corolla,2023,7339,14035868.52,Oceania
+Audi,3 Series,2016,18904,11343051.03,Europe
+Toyota,A4,2023,14954,33911395.87,Asia
+Chevrolet,Altima,2023,16109,38131450.67,Asia
+Toyota,Focus,2018,17801,11947052.85,Europe
+Nissan,A4,2020,12179,39621643.14,South America
+Nissan,Elantra,2020,5570,26090614.03,North America
+BMW,Elantra,2017,7068,19373571.14,Asia
+Mercedes,Civic,2018,6101,18690768.41,South America
+Chevrolet,Corolla,2016,8866,44549209.71,Oceania
+Honda,Jetta,2017,17755,12257761.4,Asia
+Mercedes,3 Series,2019,15570,30155833.96,Oceania
+Volkswagen,Focus,2018,11001,21570538.05,South America
+Mercedes,A4,2017,10933,42631450.27,Oceania
+Honda,Altima,2017,11272,39260699.32,South America
+Audi,Corolla,2016,14293,22756147.85,Oceania
+Nissan,Altima,2017,5530,33916706.97,North America
+Audi,Malibu,2022,14913,36901276.06,Asia
+Chevrolet,Civic,2022,7513,22826604.62,Asia
+Mercedes,3 Series,2022,16125,22070577.41,South America
+Chevrolet,Civic,2020,12371,15730417.37,Oceania
+Audi,Elantra,2020,11077,36408496.95,Europe
+Nissan,Civic,2017,11095,18841709.62,Asia
+Ford,Focus,2022,12273,22020038.15,Oceania
+BMW,Elantra,2016,17502,12438305.48,Oceania
+Chevrolet,A4,2022,6259,47940810.2,North America
+Chevrolet,Altima,2022,14403,45188555.64,Europe
+Ford,A4,2019,7255,46463106.62,Asia
+Volkswagen,Malibu,2019,13674,35039725.51,North America
+Volkswagen,Elantra,2015,11012,27088023.29,Europe
+Audi,Elantra,2020,11521,29824831.5,Asia
+Chevrolet,3 Series,2023,10150,48891609.41,North America
+Nissan,Elantra,2016,15642,47663456.39,Europe
+Toyota,Altima,2019,9566,36853700.99,Asia
+Audi,Focus,2022,9089,41432183.84,Europe
+Audi,Malibu,2022,6858,22749378.29,Oceania
+BMW,3 Series,2015,5424,26652985.34,South America
+Chevrolet,Jetta,2015,17053,15968704.31,South America
+Volkswagen,Altima,2020,8048,25058407.54,Oceania
+Volkswagen,Focus,2019,13176,40176643.89,Europe
+Mercedes,Civic,2016,13482,28940752.82,Oceania
+Hyundai,A4,2016,11340,43973637.29,South America
+Hyundai,Malibu,2023,19967,22029456.75,South America
+Hyundai,CLA,2021,14202,38303071.9,Europe
+BMW,Altima,2022,6929,42231046.4,South America
+Nissan,A4,2023,9288,46589646.95,Oceania
+Hyundai,Corolla,2015,17697,32495437.98,Europe
